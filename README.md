@@ -6,4 +6,4 @@ En este sencillo ejercicio se "emula" a un paint en java, usando casi todas las 
 [Enlace al codigo fuente](https://github.com/UrielMendozaG/Paint-Java/tree/master/src/com)
 
 #### Mas ejercicios
-[Enlace al repo](https://github.com/UrielMendozaG/Generation-Mexico)
+[Enlace al repo](https://github.com/UrielMendozaG/Generation-Mexico/blob/master/Programacion/Java/README.md#ejercicios)
